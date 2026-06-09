@@ -29,3 +29,4 @@ A simple and responsive weather application that shows real-time weather informa
 (Add your deployed Vercel / Netlify link here)
 
 Example:
+https://weather-app-weld-five-65.vercel.app/
